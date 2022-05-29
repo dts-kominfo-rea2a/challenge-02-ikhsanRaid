@@ -47,7 +47,7 @@ function lakukanLooping(arrPegawai) {
   }
 
   let jumlahPria = pria;
-  console.log(jumlahPria);
+
   /*
     TODO 3: Buatlah sebuah variabel bernama "jumlahWanita"
       yang berisi jumlah wanita dari masing masing pegawai
@@ -61,7 +61,6 @@ function lakukanLooping(arrPegawai) {
     wanita++;
   }
   let jumlahWanita = wanita;
-  console.log(jumlahWanita);
 
   /*
     TODO 4: Buatlah sebuah variabel bernama "komentar"
@@ -83,7 +82,6 @@ function lakukanLooping(arrPegawai) {
     isiKomentar = "Jumlah Pria dan Wanita berimbang";
   }
   let komentar = isiKomentar;
-  console.log(komentar);
 
   // ! JANGAN DIMODIFIKASI
   return {
